@@ -11,12 +11,12 @@ source .venv/bin/activate
 ```bash
 touch requirements.txt
 ```
-## Install librearies
+## Install libraries
 ```bash
 pip install pandas numpy matplotlib seaborn tensorflow scikit-learn jupyter ipykernel
 ```
 
 ## Install Dependecies
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
