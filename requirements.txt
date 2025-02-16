@@ -65,6 +65,7 @@ jupyterlab_pygments==0.3.0
 jupyterlab_server==2.27.3
 jupyterlab_widgets==3.0.13
 keras==3.8.0
+Keras-Preprocessing==1.1.2
 kiwisolver==1.4.8
 libclang==18.1.1
 Markdown==3.7
@@ -130,9 +131,11 @@ tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 tensorflow==2.18.0
 tensorflow-datasets==4.9.7
+tensorflow-hub==0.2.0
 tensorflow-metadata==1.16.1
 termcolor==2.5.0
 terminado==0.18.1
+tf_keras==2.18.0
 threadpoolctl==3.5.0
 tinycss2==1.4.0
 toml==0.10.2
